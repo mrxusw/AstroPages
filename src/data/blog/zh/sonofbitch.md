@@ -2,7 +2,7 @@
 title: 就张腾然借钱拖拉有感
 description: 谨慎交友。人善被人欺
 draft: false
-featured: false
+featured: true
 tags:
   - 闸总
   - 出生
