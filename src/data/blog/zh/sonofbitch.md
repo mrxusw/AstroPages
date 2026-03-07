@@ -1,5 +1,6 @@
 ---
 title: 就张腾然借钱拖拉有感
+pubDatetime: 2026-03-07
 description: 谨慎交友。人善被人欺
 draft: false
 featured: true
