@@ -3,7 +3,7 @@ title: 17岁，在河南，做个 Everyday Normal Guy
 pubDatetime: 2026-03-07
 description: normalmotherfucker
 draft: false
-featured: true
+featured: false
 tags:
   - fuck
   - damn
